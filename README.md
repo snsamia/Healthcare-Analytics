@@ -1,0 +1,2 @@
+# Healthcare-Analytics-Emergency-Room-Patient-and-Clinic-Reports-Analysis-Dashboard
+This Power BI project visualizes emergency room visit data to provide data-driven insights into patient demographics, visit types, satisfaction, and referral patterns. The dashboard includes key metrics, keyword analysis, and visual representations to help stakeholders make informed decisions for improving patient care.
